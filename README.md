@@ -3,13 +3,11 @@
 
 - 🔭 Trabajando en **Vicedo Tool**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Aprendiendo ahora mismo **Python, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📫 Como contactarme: **discord : lazone03**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Que me gusta hacer?: **Me gusta aprender y programar**
 
 <h3 align="center">Habla conmigo</h3>
 <div align="center">
